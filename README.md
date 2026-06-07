@@ -9,6 +9,7 @@ Claude Code is a command-line tool, desktop app, and IDE extension that lets Cla
 ## Contents
 
 - [Official Resources](#official-resources)
+- [Scaffold & Starters](#scaffold--starters)
 - [Skills](#skills)
 - [MCP Servers](#mcp-servers)
 - [CLAUDE.md Templates](#claudemd-templates)
@@ -29,6 +30,10 @@ Claude Code is a command-line tool, desktop app, and IDE extension that lets Cla
 - [Claude Code IDE Extensions](https://docs.anthropic.com/en/docs/claude-code/ide-integrations) - VS Code and JetBrains plugins.
 - [Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk) - Build custom agents on top of Claude Code.
 - [Max Plan](https://www.anthropic.com/pricing) - Unlimited Claude Code usage with Anthropic Max subscription.
+
+## Scaffold & Starters
+
+- [claude-code-starter](https://github.com/mostapha-ai/claude-code-starter) - Set up Claude Code in any project in seconds. Generates CLAUDE.md, settings, hooks, and installs recommended skills. Zero dependencies.
 
 ## Skills
 
