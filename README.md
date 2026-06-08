@@ -119,6 +119,10 @@ MCP (Model Context Protocol) servers extend Claude Code with external tools and 
 - [Memory MCP](https://github.com/anthropics/anthropic-quickstarts/tree/main/mcp-servers/memory) - Persistent key-value memory across sessions.
 - [Brave Search MCP](https://github.com/anthropics/anthropic-quickstarts/tree/main/mcp-servers/brave-search) - Web search via Brave.
 
+### Blockchain & Payments
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## CLAUDE.md Templates
 
 `CLAUDE.md` files tell Claude about your project. Place them at the repo root.
@@ -322,3 +326,4 @@ If you find a resource that should be here, open a pull request. Quality over qu
 **Star this repo** if you find it useful. It helps others discover it.
 
 Licensed under [CC0 1.0](LICENSE).
+- [Blockchain & Payments](#blockchain--payments)
